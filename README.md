@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+⚡ Fun fact: I do computer stuff.
+
 <!--
 **bdgza/bdgza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
